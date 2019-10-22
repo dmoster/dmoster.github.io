@@ -27,6 +27,7 @@ main {
   border-radius: 5px;
   background-color: whitesmoke;
   color: #333;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
 }
 
 .btn-group {
@@ -39,7 +40,8 @@ main {
   background-color: slateblue;
   border: none;
   border-radius: 5px;
-  text-decoration: none;
+  text-decoration: none !important;
+  text-align: center;
   font-size: 1em;
   cursor: pointer;
   padding: 5px;
