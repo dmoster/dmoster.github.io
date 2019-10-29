@@ -21,6 +21,24 @@ THE SOFTWARE.
 */
 
 
+/* Mods for touch */
+
+function simKeyDown(code) {
+  
+  var e = jQuery.Event( 'keydown', { keyCode: code } );
+  jQuery('body').trigger(e);
+  
+}
+
+function simKeyUp(code) {
+  
+  var e = jQuery.Event( 'keyup', { keyCode: code } );
+  jQuery('body').trigger(e);
+  
+}
+
+/* End mods for touch */
+
 
 /* Clarity engine */
 

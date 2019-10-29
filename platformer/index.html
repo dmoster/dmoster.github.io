@@ -12,9 +12,9 @@
 <body>
   <canvas id="canvas"></canvas>
 
- <button id="up" name="up" onmouseover="">up</button> 
- <button id="left" name="left" onmouseover="">left</button> 
- <button id="right" name="right" onmouseover="">right</button> 
+ <button id="up" name="up" ontouchstart="simKeyDown(38)" ontouchend="simKeyUp(38)">up</button> 
+ <button id="left" name="left" ontouchstart="simKeyDown(37)" ontouchend="simKeyUp(37)">left</button> 
+ <button id="right" name="right" ontouchstart="simKeyDown(39)" ontouchend="simKeyUp(39)">right</button> 
 
   <p>
     Use the left, right and up arrow keys to move.
