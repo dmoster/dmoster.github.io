@@ -37,6 +37,31 @@ a {
   color:#3377ee;
 }
 
+
+#controls {
+  display: flex;
+  flex-direction: column;
+  width: 100%;
+}
+
+.row {
+  display: flex;
+}
+
+.d-pad {
+  display: inline-block;
+  border: none;
+  border-radius: 5px;
+  background-color: slateblue;
+  color: dodgerblue;
+  padding: 10px;
+  margin: 5px;
+  font-size: 2em;
+  width: 40px;
+  height: 40px;
+  baseline: center;
+}
+
 #up {
   
 }
