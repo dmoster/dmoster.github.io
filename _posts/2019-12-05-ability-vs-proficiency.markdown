@@ -9,7 +9,7 @@ I've had a battle going on in my head for the past few weeks. In that battle, I'
 
 You see, my *ability* to create an application is pretty substantial at this point. Using enough documentation, I could build something that looks nice and runs smoothly using various combinations of JavaScript, HTML, CSS, Java, PHP, Node.js, C++, and Bootstrap. With those, I can build web apps, Android apps, and command line utilities.
 
-But I can't help but wonder if I have real proficiency in them, if I would consider myself on track to become fluent in, say, JavaScript or C++? And I also can't help but wonder a few other things along the way. 
+But I can't help but wonder if I have real proficiency in them, if I would consider myself on track to become fluent in, say, JavaScript or C++? And I also can't help but wonder a few other things along the way:
 
 * Do most software engineers consider themselves fluent in at least one or two programming languages?
 * Should I be picking one or two to specialize in?

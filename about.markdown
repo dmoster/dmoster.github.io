@@ -1,8 +1,10 @@
 ---
 layout: page
-title: Hi, I'm Daniel
+title: About
 permalink: /about/
 ---
+
+Hi, I'm Daniel. 
 
 I am passionate about the idea that life is about finding joy and helping others to do the same. I'm into technology because I believe that its purpose is to improve our lives.
 
