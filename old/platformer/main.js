@@ -502,8 +502,8 @@ function(callback) {
 var canvas = document.getElementById('canvas'),
   ctx = canvas.getContext('2d');
 
-canvas.width = 400;
-canvas.height = 400;
+canvas.width = window.innerWidth;
+canvas.height = window.innerWidth;
 
 var game = new Clarity();
   game.set_viewport(canvas.width, canvas.height);
