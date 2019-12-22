@@ -1,4 +1,5 @@
 * {
+  box-sizing: border-box;
   margin: 0;
   padding: 0;
 }
@@ -17,7 +18,7 @@ body {
 
 canvas {
   display: block;
-  margin: 0 0 30px;
+  margin: 0 0 11px;
   border: none;
 }
 
@@ -29,7 +30,7 @@ p, a {
   width: 400px;
   margin: 0 auto;
   text-align: center;
-  text-decoration:none;
+  text-decoration: none;
 }
 
 .info {
@@ -40,7 +41,7 @@ p, a {
 }
 
 a {
-  color:#3377ee;
+  color: #3377ee;
 }
 
 
@@ -63,16 +64,14 @@ a {
   border-radius: 5px;
   background-color: slateblue;
   color: dodgerblue;
-  padding: 10px;
+  padding: 5px;
   margin: 5px;
-  font-size: 3em;
-  width: 120px;
-  height: 80px;
-  baseline: center;
+  font-size: 5em;
+  width: 33vw;
 }
 
 #up {
-  
+
 }
 
 #left {
