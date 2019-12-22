@@ -9,7 +9,7 @@
 
   <title>Test</title>
 </head>
-<body>
+<body onload="setTimeout(function() { window.scrollTo(0, 1) }, 100);">
   <canvas id="canvas"></canvas>
 
   <div id="controls">
@@ -19,10 +19,7 @@
       <button class="d-pad" id="right" name="right" ontouchstart="simKeyDown(39)" ontouchend="simKeyUp(39)"><i class="fas fa-caret-right"></i></button> 
     </div>
   </div>
-  
-  <p class="info">
-    Use the left, right and up arrow keys to move.
-  </p>
+
 
   <script src="maps.js"></script>
   <script src="../src/jquery-3.4.1.min.js"></script>
