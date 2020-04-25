@@ -5,7 +5,7 @@ date:   2020-04-25 00:12:20 -0500
 categories: programming school wdd330
 ---
 
-*The original markdown copy of [these notes can be viewed here](https://dmoster.github.io/byui/wdd330/w01/w01.md).*
+*The original markdown copy of [these notes can be viewed here](https://dmoster.github.io/byui/wdd330/w01/w01.txt).*
 
 ## Remembering Users' Info
 **Lee S. Barney, *Doing Stuff with Web Things* section 2.3**
