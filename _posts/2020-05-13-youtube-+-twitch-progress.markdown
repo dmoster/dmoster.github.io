@@ -14,7 +14,7 @@ Below is my current progress in becoming a money-making content creator, or at l
 
 As of writing, watch time appears to be the most daunting requirement. It's supposed to be 4000 *hours* in the past year. I'm currently at almost 5:
 <div style="border: 1px solid; border-color: transparent #ff0000 transparent transparent;">
-  <div style="background-color: #ff0000; height: 24px; width: 0.12%;">
+  <div style="background-color: #ff0000; height: 24px; width: 0.13%;">
   </div>
 </div>
 
@@ -52,7 +52,5 @@ And finally, this also is likely due to the brevity of my stream thus far, but I
   <div style="background-color: #6441a5; height: 24px; width: 4%;">
   </div>
 </div>
-
-***
 
 So as you can see, there is much to be desired here. However, tracking goals can be one of the best ways to help achieve them, so I'll be posting here periodically to update my new (and hopefully improved) status on all of these metrics. In the meantime, please consider [subscribing to my YouTube channel](https://youtube.com/user/quiikwic73) or [following me on Twitch](https://twitch.tv/danielmoster), and I'll catch you next time!
