@@ -5,7 +5,9 @@
 import * as ls from './ls-helpers.js';
 import { filterList, addTask, deleteTask, completeTask } from './utilities.js'
 
-
+if (!ls.load('toDoList')) {
+  ls.save('toDoList', '[]');
+}
 let toDoList = JSON.parse(ls.load('toDoList'));
 
 
