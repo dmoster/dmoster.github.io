@@ -1,0 +1,26 @@
+* {
+  box-sizing: border-box;
+  font-family: sans-serif;
+}
+
+body {
+  margin: 0;
+  padding: 0;
+  background-color: whitesmoke;
+}
+
+.flex-container {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.btn {
+  color: whitesmoke;
+  text-decoration: none;
+  text-align: center;
+  margin: 2px;
+  padding: 5px;
+  background-color: dodgerblue;
+  border: 1px solid dodgerblue;
+  border-radius: 3px;
+}
