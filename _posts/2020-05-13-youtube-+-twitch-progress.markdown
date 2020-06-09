@@ -12,15 +12,15 @@ Below is my current progress in becoming a money-making content creator, or at l
 
 ## YouTube Partner
 
-As of writing, watch time appears to be the most daunting requirement. It's supposed to be 4000 *hours* in the past year. I'm currently at almost 5:
+As of writing, watch time appears to be the most daunting requirement. It's supposed to be 4000 *hours* in the past year. I'm currently at 25:
 <div style="border: 1px solid; border-color: transparent #ff0000 transparent transparent;">
-  <div style="background-color: #ff0000; height: 24px; width: 0.13%;">
+  <div style="background-color: #ff0000; height: 24px; width: 0.625%;">
   </div>
 </div>
 
-Subscriptions are slightly less scary. I need at least 1000 and currently have 19:
+Subscriptions are slightly less scary. I need at least 1000 and currently have 25:
 <div style="border: 1px solid; border-color: transparent #ff0000 transparent transparent;">
-  <div style="background-color: #ff0000; height: 24px; width: 1.9%;">
+  <div style="background-color: #ff0000; height: 24px; width: 2.5%;">
   </div>
 </div>
 

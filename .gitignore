@@ -3,3 +3,4 @@ _site
 .jekyll-cache
 .jekyll-metadata
 vendor
+/byui/wdd330/w06/localStorage.json
