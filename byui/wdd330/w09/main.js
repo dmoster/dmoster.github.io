@@ -14,7 +14,7 @@ function random(a, b = 1) {
   return Math.floor((b - a + 1) * Math.random()) + a;
 }
 
-
+// Shuffle
 function shuffle(array) {
   for (let i = array.length; i; --i) {
     let j = random(i) - 1;
