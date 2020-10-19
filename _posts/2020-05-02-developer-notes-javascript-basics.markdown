@@ -1,11 +1,9 @@
 ---
 layout: post
-title:  "Mobile Application Pilot - W02 Notes"
+title:  "Developer Notes - JavaScript Basics"
 date:   2020-05-02 00:13:05 -0500
-categories: programming school wdd330
+categories: programming notes JavaScript
 ---
-
-*The original markdown copy of [these notes can be viewed here](https://dmoster.github.io/byui/wdd330/w02/w02.txt).*
 
 ## Programming Basics
 **Darren Jones, *JavaScript: Novice to Ninja, 2nd Edition* chapter 2**
@@ -48,7 +46,7 @@ undefined, NaN, Infinity
 ### Variables
 In ES6, `const` and `let` are becoming the new norm. They have a similar function to `var`, but have block scope, meaning they're only valid inside whatever block contains them.
 
-### Section Questions
+### Study Questions
 Why is JavaScript loosely typed? Is that ultimately more advantageous with the dangers that have to be guarded against?
 
 
@@ -80,12 +78,5 @@ for (const value of avengers) {
 }
 ```
 
-### Section Questions
+### Study Questions
 Why do `for-of` loops exist when there's a `foreach()` method?
-
-
-## Functions
-**Darren Jones, *JavaScript: Novice to Ninja, 2nd Edition* chapter 4**
-
-### Section Questions
-Ultimately, why would passing `function2` into `function1` as a callback be better than calling `function1` during execution of `function2`?

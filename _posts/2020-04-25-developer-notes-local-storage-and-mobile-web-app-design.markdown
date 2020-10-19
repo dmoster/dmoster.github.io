@@ -1,11 +1,9 @@
 ---
 layout: post
-title:  "Mobile Application Pilot - W01 Notes"
+title:  "Developer Notes - Local Storage and Mobile Web App Design"
 date:   2020-04-25 00:12:20 -0500
-categories: programming school wdd330
+categories: programming notes JavaScript web
 ---
-
-*The original markdown copy of [these notes can be viewed here](https://dmoster.github.io/byui/wdd330/w01/w01.txt).*
 
 ## Remembering Users' Info
 **Lee S. Barney, *Doing Stuff with Web Things* section 2.3**
@@ -48,11 +46,7 @@ function displayStory() {
 }
 ```
 
-
-My version of [the full exercise can be viewed here](https://dmoster.github.io/byui/wdd330/w01/).
-
-
-### Section Questions
+### Study Questions
 How long do items saved in `localStorage` last?
 
 What security limitations are involved, if any?
@@ -115,5 +109,5 @@ What security limitations are involved, if any?
 - "Your content should come first."
 
 
-### Section Questions
+### Study Questions
 How much JavaScript is it reasonable to expect the average mobile device to handle?
