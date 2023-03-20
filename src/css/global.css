@@ -1,0 +1,144 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+  font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+html, body {
+  height: 100%;
+  padding: 0;
+  margin: 0;
+}
+
+.app {
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  background-color: slateblue;
+}
+
+h1 {
+  font-size: 64px;
+}
+
+main {
+  padding: 16px;
+  flex-grow: 1;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+  margin-bottom: 98px;
+}
+
+nav {
+  overflow: hidden;
+  position: fixed;
+  bottom: 0;
+  width: 100%;
+  display: flex;
+  justify-content: space-between;
+  font-size: 16px;
+  color: mediumseagreen
+}
+
+nav .left, nav .right {
+  display: flex;
+  justify-content: space-between;
+}
+
+nav a {
+  padding: 16px;
+  text-decoration: none;
+  color: inherit;
+  cursor: pointer;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  border-bottom: 2px solid transparent;
+}
+
+nav a:hover {
+  border-bottom: 2px solid orange;
+}
+
+nav a.active {
+  border-bottom: 2px solid tomato;
+}
+
+nav a .bi {
+  font-size: 32px;
+}
+
+.lead {
+  font-size: 1.2em;
+}
+
+#email-signup {
+  color: whitesmoke;
+}
+
+#email-signup .lead {
+  margin-bottom: 16px;
+}
+
+#email-form {
+  display: flex;
+  flex-direction: column;
+}
+
+input, button {
+  padding: 8px;
+  color: dodgerblue;
+  font-size: 1em;
+  font-weight: bold;
+  text-align: center;
+  border-radius: 4px;
+}
+
+input {
+  border: 1px solid #b8b1e7;
+  background-color: #b8b1e7;
+}
+
+input::placeholder {
+  color: slateblue;
+}
+
+#email-input {
+  margin-bottom: 8px;
+}
+
+button {
+  border: 1px solid #ffc966;
+  background-color: #ffc966;
+  color: slateblue;
+}
+
+button:hover {
+  border: 1px solid orange;
+  background-color: orange;
+  cursor: pointer;
+}
+
+@media screen and (min-width: 415px) {
+  main {
+    margin: auto;
+    max-width: 600px;
+  }
+
+  #email-form {
+    flex-direction: row;
+  }
+
+  #email-input {
+    margin: 0 8px 0 0;
+    flex-grow: 2;
+    text-align: left;
+  }
+
+  #email-btn {
+    flex-grow: 1;
+  }
+}
